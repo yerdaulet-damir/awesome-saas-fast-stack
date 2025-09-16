@@ -1,0 +1,42 @@
+{
+  "Idea & Validation": [
+    { "name": "Fillout", "url": "https://fillout.com", "notes": "custdev surveys" },
+    { "name": "Notion", "url": "https://www.notion.so", "notes": "docs/backlog" }
+  ],
+  "Build": [
+    { "name": "Cursor", "url": "https://cursor.sh", "notes": "AI editor" },
+    { "name": "Next.js", "url": "https://nextjs.org", "notes": "frontend" },
+    { "name": "Vercel", "url": "https://vercel.com", "notes": "hosting" }
+  ],
+  "Auth": [
+    { "name": "Clerk", "url": "https://clerk.com/pricing", "notes": "auth (free tier)" },
+    { "name": "Supabase Auth", "url": "https://supabase.com", "notes": "built-in" }
+  ],
+  "Backend & DB": [
+    { "name": "Supabase", "url": "https://supabase.com", "notes": "Postgres + storage" },
+    { "name": "Railway", "url": "https://railway.app", "notes": "hosting" }
+  ],
+  "Automation & AI": [
+    { "name": "n8n", "url": "https://n8n.io", "notes": "open-source automation" },
+    { "name": "Latenode", "url": "https://latenode.com", "notes": "300 free executions" },
+    { "name": "Make.com", "url": "https://www.make.com", "notes": "connectors" },
+    { "name": "LangChain", "url": "https://www.langchain.com", "notes": "LLM orchestration" }
+  ],
+  "Analytics": [
+    { "name": "GA4", "url": "https://marketingplatform.google.com/about/analytics", "notes": "baseline analytics" },
+    { "name": "GTM", "url": "https://tagmanager.google.com", "notes": "event tracking" },
+    { "name": "PostHog", "url": "https://posthog.com", "notes": "product analytics" }
+  ],
+  "Support & Comms": [
+    { "name": "Intercom", "url": "https://www.intercom.com", "notes": "support & onboarding" },
+    { "name": "Tally", "url": "https://tally.so", "notes": "feedback forms" }
+  ],
+  "Payments": [
+    { "name": "Stripe", "url": "https://stripe.com", "notes": "subscriptions" },
+    { "name": "LemonSqueezy", "url": "https://www.lemonsqueezy.com", "notes": "SaaS billing" }
+  ],
+  "Launch & Growth": [
+    { "name": "Product Hunt", "url": "https://www.producthunt.com", "notes": "launch & PR" },
+    { "name": "Reddit", "url": "https://www.reddit.com", "notes": "communities" }
+  ]
+}

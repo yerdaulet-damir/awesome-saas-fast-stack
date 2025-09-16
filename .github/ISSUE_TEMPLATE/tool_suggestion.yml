@@ -1,0 +1,24 @@
+name: Tool Suggestion
+description: Propose a new tool for the stack
+labels: ["tool-suggestion"]
+body:
+  - type: input
+    id: name
+    attributes: { label: Tool name, placeholder: e.g., PostHog }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: URL, placeholder: https://... }
+    validations: { required: true }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Idea & Validation, Build, Auth, Backend & DB, Automation & AI, Analytics, Support & Comms, Payments, Launch & Growth, DevOps]
+    validations: { required: true }
+  - type: textarea
+    id: why
+    attributes: { label: Why is this useful?, placeholder: Short, concrete value prop }
+  - type: textarea
+    id: freetier
+    attributes: { label: Free tier/trial details }

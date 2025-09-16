@@ -1,0 +1,13 @@
+name: Broken Link / Info
+description: Report a broken link or inaccurate info
+labels: ["bug"]
+body:
+  - type: input
+    id: section
+    attributes: { label: Section, placeholder: e.g., Automation & AI }
+  - type: input
+    id: link
+    attributes: { label: Link, placeholder: https://... }
+  - type: textarea
+    id: details
+    attributes: { label: What's wrong?, placeholder: 404, pricing changed, etc. }
