@@ -3,7 +3,7 @@
 A curated stack to go from **idea → MVP → launch → growth** fast.  
 Free tiers first, automation-friendly, AI-ready.
 
-> Collected by Yerdaulet (Astana Hub, Kazakhstan). PRs welcome!
+> Collected by Yerdaulet. PRs welcome!
 
 ![Flow](assets/saas_stack_flow.png)
 
